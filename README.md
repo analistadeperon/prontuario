@@ -1,5 +1,5 @@
 # prontuario
-<form action="aula6.html" method="get">
+<form action="teste1.html" method="get">
   Campo 1: <input type="text" size="100" tabindex="3" maxlength="4" name="campo1"><br>
   Campo 2: <input type="text" size="100" tabindex="2" name="campo2"><br>
   Campo 3: <input type="text" size="100" tabindex="1"><br>
